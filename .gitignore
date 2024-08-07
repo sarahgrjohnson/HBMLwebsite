@@ -10,6 +10,7 @@ dist/
 build/
 
 # Ignore OS-specific files
+**/.DS_Store
 .DS_Store
 
 # Ignore IDE-specific files
