@@ -6,8 +6,9 @@ logs/
 .env
 
 # Ignore build output
-dist/
-build/
+_site/
+.sass-cache/
+.jekyll-cache/
 
 # Ignore OS-specific files
 **/.DS_Store
@@ -16,6 +17,3 @@ build/
 # Ignore IDE-specific files
 .vscode/
 .idea/
-
-# Ignore .jekyll-cache
-.jekyll-cache/
