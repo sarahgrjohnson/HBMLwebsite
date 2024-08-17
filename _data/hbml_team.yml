@@ -37,11 +37,11 @@
 - name: Max Nentwich
   photo: max.jpg
   info: PostDoc with Stephan
-  background: Neuroscience PhD, City College of New York (Parra Lab)
+  background: PhD Biomedical Engineering, City College of New York (Parra Lab)
   email: mnentwich@northwell.edu
   x:
   linkedin:
-  website: 
+  website: https://github.com/MaxNentwich
 
 - name: Christine Chesebrough
   photo: bio-photo.jpg
@@ -71,7 +71,7 @@
   website: 
 
 - name: Jalen Winfield
-  photo: bio-photo.jpg
+  photo: Jalen Winfield_4x5.jpg
   info: Research Assistant
   background: BS Biomed. Engineering, Drexel University
   email: jwinfield@northwell.edu
@@ -90,9 +90,9 @@
   github: https://github.com/nmarkowitz
   
 - name: Sarah Johnson
-  photo: bio-photo.jpg
+  photo: sjohnson.jpg
   info: Research Assistant HBMLab
-  background: 
+  background: BS Microbiology, Miami University
   email: sjohnson74@northwell.edu
   x:
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
@@ -102,7 +102,7 @@
 - name: Joshua Assi
   photo: jassi.jpg
   info: Research Assistant with Jose
-  background: 
+  background: BS Neuroscience, Biophysics, Brown University
   email: jassi@northwell.edu
   x:
   linkedin: https://www.linkedin.com/in/joshua-assi-a35145203/
