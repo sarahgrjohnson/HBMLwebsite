@@ -12,7 +12,7 @@ permalink: /vacancies
 
 ### Current open positions
 You find the current job openings here:
-- There is one postdoc [opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf) to work with Dr. Jose Herrero. Please [email](mailto:jherrero@northwell.edu) him if you are interested with a CV and two references.
+- There is one postdoc [opening 1]({{ site.baseurl }}/downloads/Postdoc_Feinstein.pdf) to work with Dr. Jose Herrero. Please [email](mailto:jherrero@northwell.edu) him if you are interested with a CV and two references.
 
 ### Applications for PhD and Postdoc positions
 Even if there is no specific opening listed above, if you are interested in working with us as a PhD student or postdoc, send an email to [Dr. Mehta](mailto:amehta@northwell.edu), [Herrero](mailto:jherreroru@northwell.edu), or [Bickel](mailto:sbickel@northwell.edu)  and briefly state why you are interested and attach a CV, including two references. 
