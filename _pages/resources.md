@@ -51,7 +51,7 @@ challenging. We developed a browser based viewer that:
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit><a href="https://github.com/IEEG/iEEG2NWB" target="_blank">iEEG2NWB</a></pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/NWB_logo.png" class="img-responsive" width="50%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/nwb_logo.png" class="img-responsive" width="50%" style="float: left" />
   <p><em><a href="https://www.nwb.org" target="_blank">Neurodata without Borders (NWB)</a> is a newly developed standard to save neurophysiology data. We developed Python code to import our iEEG data, other neurophysiological signals, and meta-data from command line or via a GUI. We tried to make it as useable for other labs as possible. Try it out and please let us know if you have suggestions! 
   Thank you to the Kavli Foundation's Seed Grant to Stephan, which helped developing this!
   </em></p>
