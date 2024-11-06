@@ -77,7 +77,6 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
-    webrick (1.8.1)
 
 PLATFORMS
   aarch64-linux-gnu
@@ -100,7 +99,6 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.8)
 
 RUBY VERSION
    ruby 3.1.3p185
