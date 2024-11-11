@@ -11,6 +11,24 @@ permalink: /publications/
 ### 2024
 <ul>
   <li>
+    Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, Stephan Bickel. 
+    <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli.</em> 
+     <a href="https://www.biorxiv.org/content/10.1101/2024.10.08.617305v1" target="_blank">bioRxiv.</a> 2024.08.05.606665 (2024) 
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2024.10.08.617305v1.Akash HFO Motives.pdf" target="_blank">PDF.</a>
+  </li>
+    <li>
+    Vishal Choudhari, Cong Han, Stephan Bickel, Ashesh D. Mehta, Catherine Schevon, Guy M. McKhann, Nima Mesgarani. 
+    <em>Brain-Controlled Augmented Hearing for Spatially Moving Conversations in Multi-Talker Environments.</em> 
+     <a href="https://onlinelibrary-wiley-com.medproxy.hofstra.edu/doi/10.1002/advs.202401379" target="_blank">Adv. Sci..</a> 11, 2401379 (2024) 
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/Adv Sci 11-2401379 Vishal 2024.pdf" target="_blank">PDF.</a>
+  </li> 
+  <li>
+    Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, Stephan Bickel, Lucas C Parra. 
+    <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
+     <a href="https://www.biorxiv.org/content/10.1101/2024.08.05.606665v2" target="_blank">bioRxiv.</a> 2024.10.08.617305 (2024) 
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2024.08.05.606665v2.Max Varx.pdf" target="_blank">PDF.</a>
+  </li>
+  <li>
     Sabina Gherman, Marcin Leczinski, Stephan Bickel. 
     <em>Intracranial EEG.</em> 
     Cognitive Neuroscience Methods. Springer Nature. Book Chapter (2024).
@@ -24,12 +42,13 @@ permalink: /publications/
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
     <em>Intracranial electroencephalography reveals effector-independent evidence accumulation dynamics in multiple human brain regions.</em> 
-    Nat. Hum. Behav. 8, 758–770 (2024).
+    <a href="https://www-nature-com.medproxy.hofstra.edu/articles/s41562-024-01824-9" target="_blank">Nat Hum Beh. 8, 758–770 (2024).</a> 
   </li>
   <li>
     Kiki van der Heijden, Prachi Patel, Stephan Bickel, Jose L. Herrero, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Joint population coding and temporal coherence link an attended talker’s voice and location features in naturalistic multi-talker scenes.</em> 
-    bioRxiv 2024.05.13.593814 (2024) <a href="https://doi.org/10.1101/2024.05.13.593814" target="_blank">doi:10.1101/2024.05.13.593814</a>.
+      <a href="https://doi.org/10.1101/2024.05.13.593814" target="_blank">bioRxiv.</a> 2024.05.13.593814 (2024) doi:10.1101/2024.05.13.593814.
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv_2024.05.13.593814v1.Kiki.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Ruxue Gong, Stephan Bickel, Gelana Tostaeva, Fred A. Lado, Ashesh D. Metha, Ruben I. Kuzniecky, Leonardo F. Bonilha, Ezequiel L. Gleichgerrcht. 
@@ -53,7 +72,8 @@ permalink: /publications/
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
     <em>Intracranial electroencephalography reveals effector-independent evidence accumulation dynamics in multiple human brain regions.</em> 
-    bioRxiv 2023.04.10.536314 (2023) <a href="https://doi.org/10.1101/2023.04.10.536314" target="_blank">doi:10.1101/2023.04.10.536314</a>.
+    <a href="https://doi.org/10.1101/2023.04.10.536314" target="_blank">bioRxiv.</a> 2023.04.10.536314 (2023) doi:10.1101/2023.04.10.536314.
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2023.04.10.536314v1.Sabina.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Menoua Keshishian, Serdar Akkol, Jose Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
