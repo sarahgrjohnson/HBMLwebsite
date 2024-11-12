@@ -59,15 +59,16 @@ permalink: /publications/
 
 ### 2023
 <ul>
-  <li>
+   <li>
     Gavin Mischler, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex.</em> 
-    NeuroImage 266, 119819 (2023).
-  </li>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Nima.2022.119819.pdf" target="_blank">PDF.</a>
+    </li>
   <li>
     Vinay S Raghavan, James O’Sullivan, Stephan Bickel, Ashesh D Mehta, Nima Mesgarani. 
     <em>Distinct neural encoding of glimpsed and masked speech in multitalker situations.</em> 
-    PLOS Biology 21, e3002128 (2023).
+    <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002128" target="_blank">PLOS Biology 21, e3002128 (2023).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/journal.pbio.3002128.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
@@ -78,17 +79,17 @@ permalink: /publications/
   <li>
     Menoua Keshishian, Serdar Akkol, Jose Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Joint, distributed and hierarchically organized encoding of linguistic features in the human auditory cortex.</em> 
-    Nat. Hum. Behav. 7, 740–753 (2023).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10417567/" target="_blank">Nat. Hum. Behav. 7, 740–753 (2023).</a>
   </li>
   <li>
     Marcin Leszczynski, Stephan Bickel, Maximilian Nentwich, Brian E. Russ, Lucas Parra, Peter Lakatos, Ashesh Mehta, Charles E. Schroeder. 
     <em>Saccadic modulation of neural excitability in auditory areas of the neocortex.</em> 
-    Curr Biol 33, 1185-1195.e6 (2023).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10424710/" target="_blank">Curr Biol 33, 1185-1195.e6 (2023).</a>
   </li>
   <li>
     Maximilian Nentwich, Marcin Leszczynski, Brian E. Russ, Lukas Hirsch, Noah Markowitz, Kaustubh Sapru, Charles E. Schroeder, Ashesh D. Mehta, Stephan Bickel, Lucas C. Parra. 
     <em>Semantic novelty modulates neural responses to visual change across the human brain.</em> 
-    Nat Commun 14, 2910 (2023).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10203305/" target="_blank">Nat Commun 14, 2910 (2023).</a>
   </li>
   <li>
     Arish Alreja, Michael J. Ward, Qianli Ma, Brian E. Russ, Stephan Bickel, Nelleke C. Van Wouwe, Jorge A. González-Martínez, Joseph S. Neimat, Taylor J. Abel, Anto Bagić, Lisa S. Parker, R. Mark Richardson, Charles E. Schroeder, Louis–Philippe Morency, Avniel Singh Ghuman. 
@@ -98,12 +99,14 @@ permalink: /publications/
   <li>
     BE Youngerman, MA Banu, F Khan, GM McKhann, CA Schevon, JR Jagid, I Cajigas, CB Theodotou, A Ko, R Buckley, JG Ojemann, JW Miller, AW Laxton, DE Couture, GS Popli, VP Buch, CH Halpern, S Le, AD Sharan, MR Sperling, AD Mehta, DJ Englot, JS Neimat, PE Konrad, SA Sheth, EG Neal, FL Vale, KL Holloway, EL Air, JM Schwalb, PF D'Haese, C. Wu. 
     <em>Long-term outcomes of mesial temporal laser interstitial thermal therapy for drug-resistant epilepsy and subsequent surgery for seizure recurrence: a multi-centre cohort study.</em> 
-    J. Neurol., Neurosurg. Psychiatry 94, 879–886 (2023).
+    <a href="https://jnnp.bmj.com/content/94/8/879" target="_blank">J. Neurol., Neurosurg. Psychiatry 94, 879–886 (2023).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/MehtaLTLaser.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     R Broday-Dvir, Y Norman, M Harel, AD Mehta, R. Malach. 
     <em>Perceptual stability reflected in neuronal pattern similarities in human visual cortex.</em> 
-    Cell Rep. 42, 112614 (2023).
+    <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00625-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124723006253%3Fshowall%3Dtrue" target="_blank">Cell Rep.</a> 42, 112614 (2023).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Mehta112614.2023.pdf" target="_blank">PDF.</a>
   </li>
 </ul>
 
