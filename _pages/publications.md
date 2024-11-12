@@ -125,7 +125,8 @@ permalink: /publications/
   <li>
     Prachi Patel, Kiki van der Heijden, Stephan Bickel, Jose L. Herrero, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Interaction of bottom-up and top-down neural mechanisms in spatial multi-talker speech perception.</em> 
-    Curr Biol 32, 3971-3986.e4 (2022).
+    <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(22)01196-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982222011964%3Fshowall%3Dtrue" target="_blank">Curr Biol 32, 3971-3986.e4 (2022).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Patel2022CurrBio.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Marcin Leszczynski, Stephan Bickel, Maximilian Nentwich, Brian E. Russ, Lucas Parra, Peter Lakatos, Ashesh Mehta, Charles E. Schroeder. 
@@ -144,22 +145,26 @@ permalink: /publications/
   <li>
     Chad Bouton, Nikunj Bhagat, Santosh Chandrasekaran, Jose Herrero, Noah Markowitz, Elizabeth Espinal, Joo-won Kim, Richard Ramdeo, Junqian Xu, Matthew F. Glasser, Stephan Bickel, Ashesh Mehta. 
     <em>Decoding Neural Activity in Sulcal and White Matter Areas of the Brain to Accurately Predict Individual Finger Movement and Tactile Stimuli of the Human Hand.</em> 
-    Front Neurosci-switz 15, 699631 (2021).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8782667/" target="_blank">Front Neurosci-switz 15, 699631 (2021).</a>
+     <a href="{{ site.url }}{{ site.baseurl }}/downloads/herrero-et-al-2021-inducing-neuroplasticity-through-intracranial-θ-burst-stimulation-in-the-human-sensorimotor-cortex.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Santosh Chandrasekaran, Stephan Bickel, Jose L. Herrero, Joo-won Kim, Noah Markowitz, Elizabeth Espinal, Nikunj A. Bhagat, Richard Ramdeo, Junqian Xu, Matthew F. Glasser, Chad E. Bouton, Ashesh D. Mehta. 
     <em>Evoking highly focal percepts in the fingertips through targeted stimulation of sulcal regions of the brain for sensory restoration.</em> 
-    Brain Stimul 14, 1184–1196 (2021).
+    <a href="https://pubmed.ncbi.nlm.nih.gov/34358704/" target="_blank">Brain Stimul 14, 1184–1196 (2021).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Chandrasekaran2021.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Bahar Khalighinejad, Prachi Patel, Jose L. Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Functional characterization of human Heschl’s gyrus in response to natural speech.</em> 
-    Neuroimage 235, 118003 (2021).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8608271/" target="_blank">Neuroimage 235, 118003 (2021).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Santosh Chandrasekaran, Matthew Fifer, Stephan Bickel, Luke Osborn, Jose Herrero, Breanne Christie, Junqian Xu, Rory K. J. Murphy, Sandeep Singh, Matthew F. Glasser, Jennifer L. Collinger, Robert Gaunt, Ashesh D. Mehta, Andrew Schwartz, Chad E. Bouton. 
     <em>Historical perspectives, challenges, and future directions of implantable brain-computer interfaces for sensorimotor applications.</em> 
-    Bioelectron. Med. 7, 14 (2021).
+     <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8456563/" target="_blank">Bioelectron. Med. 7, 14 (2021).</a>
+     <a href="{{ site.url }}{{ site.baseurl }}/downloads/42234_2021_Article_76.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Samuel A Neymotin, Idan Tal, Annamaria Barczak, Monica N. O’Connell, Tammy McGinnis, Noah Markowitz, Elizabeth Espinal, Erica Griffith, Haroon Anwar, Salvador Dura-Bernal, Charles E Schroeder, William W Lytton, Stephanie R Jones, Stephan Bickel, Peter Lakatos. 
@@ -168,13 +173,14 @@ permalink: /publications/
   </li>
   <li>
     Datta-Chaudhuri, T. et al. 
-    <em>The Fourth Bioelectronic Medicine Summit “Technology Targeting Molecular Mechanisms”: current progress, challenges, and charting the future.</em> 
-    Bioelectron. Med. 7, 7 (2021).
+      <em>The Fourth Bioelectronic Medicine Summit “Technology Targeting Molecular Mechanisms”: current progress, challenges, and charting the future.</em> 
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8142479/" target="_blank">Bioelectron. Med. 7, 7 (2021).</a>
   </li>
   <li>
     S Khuvis, EM Yeagle, Y Norman, S Grossman, R Malach, AD. Mehta. 
     <em>Face-Selective Units in Human Ventral Temporal Cortex Reactivate during Free Recall.</em> 
-    J. Neurosci. 41, 3386–3399 (2021).
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8051680/" target="_blank">J. Neurosci. 41, 3386–3399 (2021).</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/zns3386.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     S Khuvis, ST Hwang, AD. Mehta. 
