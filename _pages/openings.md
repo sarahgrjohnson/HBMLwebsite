@@ -22,6 +22,9 @@ Even if there is no specific opening listed above, if you are interested in work
 ### For MDs who would like to do a PhD
 If you are an MD, or are about to complete your MD degree, have a look at the [Elmezzi Graduate School](https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine) at The Feinstein Institutes. It is a fantastic program for clinicians to obtain a PhD and work with us or other labs at the Feinstein. It requires minimal course work, is tuiton-free, provides a competitive salary, and is open to international graduates. [Email (Stephan Bickel)](mailto:sbickel@northwell.edu) if you are interested. 
 
+### Interested in doing a PhD with us or someone else at The Feinstein Institutes? 
+Zucker School of Medicine provides an excellent PhD program. Once an applicant is accepted to the program, tuition is paid and a stipend provided. International students are welcome to apply. For more information see [here](https://medicine.hofstra.edu/education/phd/) and feel free to reach out to any of us in the lab. 
+
  
 
 
