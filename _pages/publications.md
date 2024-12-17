@@ -62,6 +62,7 @@ permalink: /publications/
    <li>
     Gavin Mischler, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex.</em> 
+    <a href="https://doi.org/10.1016/j.neuroimage.2022.119819" target="_blank">Neuroimage</a> (2023) doi:10.1016/j.neuroimage.2022.119819.
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/Nima.2022.119819.pdf" target="_blank">PDF.</a>
     </li>
   <li>
