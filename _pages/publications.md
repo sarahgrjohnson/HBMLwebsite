@@ -36,18 +36,19 @@ permalink: /publications/
   <li>
     Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, Stephan Bickel. 
     <em>Hippocampal sharp wave ripples and coincident cortical ripples orchestrate human semantic networks.</em> 
-     <a href="https://doi.org/10.1101/2024.04.10.588795" target="_blank">bioRxiv.</a> 2024.04.10.588795 (2024) doi:10.1101/2024.04.10.588795.
+     <a href="https://doi.org/10.1101/2024.04.10.588795" target="_blank">bioRxiv.</a> 2024.04.10.588795 (2024).
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv_2024.04.10.588795v3.AkashMatrixRecall.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
     <em>Intracranial electroencephalography reveals effector-independent evidence accumulation dynamics in multiple human brain regions.</em> 
     <a href="https://www-nature-com.medproxy.hofstra.edu/articles/s41562-024-01824-9" target="_blank">Nat Hum Beh. 8, 758–770 (2024).</a> 
+          <a href="{{ site.url }}{{ site.baseurl }}/downloads/Gherman2024_forPostingOnWebsites.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Kiki van der Heijden, Prachi Patel, Stephan Bickel, Jose L. Herrero, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Joint population coding and temporal coherence link an attended talker’s voice and location features in naturalistic multi-talker scenes.</em> 
-      <a href="https://doi.org/10.1101/2024.05.13.593814" target="_blank">bioRxiv.</a> 2024.05.13.593814 (2024) doi:10.1101/2024.05.13.593814.
+      <a href="https://doi.org/10.1101/2024.05.13.593814" target="_blank">bioRxiv.</a> 2024.05.13.593814 (2024).
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv_2024.05.13.593814v1.Kiki.pdf" target="_blank">PDF.</a>
   </li>
   <li>
@@ -74,7 +75,7 @@ permalink: /publications/
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
     <em>Intracranial electroencephalography reveals effector-independent evidence accumulation dynamics in multiple human brain regions.</em> 
-    <a href="https://doi.org/10.1101/2023.04.10.536314" target="_blank">bioRxiv.</a> 2023.04.10.536314 (2023) doi:10.1101/2023.04.10.536314.
+    <a href="https://doi.org/10.1101/2023.04.10.536314" target="_blank">bioRxiv.</a> 2023.04.10.536314 (2023).
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2023.04.10.536314v1.Sabina.pdf" target="_blank">PDF.</a>
   </li>
   <li>
