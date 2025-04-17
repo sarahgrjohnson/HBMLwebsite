@@ -63,7 +63,7 @@ permalink: /publications/
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
     <em>Intracranial electroencephalography reveals effector-independent evidence accumulation dynamics in multiple human brain regions.</em> 
-    <a href="https://www-nature-com.medproxy.hofstra.edu/articles/s41562-024-01824-9" target="_blank">Nat Hum Beh. 8, 758–770 (2024).</a> 
+    <a href="https://www-nature-com.medproxy.hofstra.edu/articles/s41562-024-01824-9" target="_blank">Nat Hum Beh.</a> 8, 758–770 (2024).
           <a href="{{ site.url }}{{ site.baseurl }}/downloads/Gherman2024_forPostingOnWebsites.pdf" target="_blank">PDF.</a>
   </li>
   <li>
@@ -84,13 +84,13 @@ permalink: /publications/
    <li>
     Gavin Mischler, Menoua Keshishian, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Deep neural networks effectively model neural adaptation to changing background noise and suggest nonlinear noise filtering methods in auditory cortex.</em> 
-    <a href="https://doi.org/10.1016/j.neuroimage.2022.119819" target="_blank">Neuroimage</a> (2023) doi:10.1016/j.neuroimage.2022.119819.
+    <a href="https://doi.org/10.1016/j.neuroimage.2022.119819" target="_blank">Neuroimage</a> (2023)
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/Nima.2022.119819.pdf" target="_blank">PDF.</a>
     </li>
   <li>
     Vinay S Raghavan, James O’Sullivan, Stephan Bickel, Ashesh D Mehta, Nima Mesgarani. 
     <em>Distinct neural encoding of glimpsed and masked speech in multitalker situations.</em> 
-    <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002128" target="_blank">PLOS Biology 21, e3002128 (2023).</a>
+    <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002128" target="_blank">PLOS Biology</a> 21, e3002128 (2023).
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/journal.pbio.3002128.pdf" target="_blank">PDF.</a>
   </li>
   <li>
@@ -107,22 +107,22 @@ permalink: /publications/
   <li>
     Marcin Leszczynski, Stephan Bickel, Maximilian Nentwich, Brian E. Russ, Lucas Parra, Peter Lakatos, Ashesh Mehta, Charles E. Schroeder. 
     <em>Saccadic modulation of neural excitability in auditory areas of the neocortex.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10424710/" target="_blank">Curr Biol 33, 1185-1195.e6 (2023).</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10424710/" target="_blank">Curr Biol.</a> 33, 1185-1195.e6 (2023).
   </li>
   <li>
     Maximilian Nentwich, Marcin Leszczynski, Brian E. Russ, Lukas Hirsch, Noah Markowitz, Kaustubh Sapru, Charles E. Schroeder, Ashesh D. Mehta, Stephan Bickel, Lucas C. Parra. 
     <em>Semantic novelty modulates neural responses to visual change across the human brain.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10203305/" target="_blank">Nat Commun 14, 2910 (2023).</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10203305/" target="_blank">Nat Commun.</a> 14, 2910 (2023).
   </li>
   <li>
     Arish Alreja, Michael J. Ward, Qianli Ma, Brian E. Russ, Stephan Bickel, Nelleke C. Van Wouwe, Jorge A. González-Martínez, Joseph S. Neimat, Taylor J. Abel, Anto Bagić, Lisa S. Parker, R. Mark Richardson, Charles E. Schroeder, Louis–Philippe Morency, Avniel Singh Ghuman. 
     <em>A new paradigm for investigating real-world social behavior and its neural underpinnings.</em> 
-    Behav Res Methods 1–20 (2022) <a href="https://doi.org/10.3758/s13428-022-01882-9" target="_blank">doi:10.3758/s13428-022-01882-9</a>.
+      <a href="https://doi.org/10.3758/s13428-022-01882-9" target="_blank">Behav Res Methods</a> 1–20 (2022).
   </li>
   <li>
     BE Youngerman, MA Banu, F Khan, GM McKhann, CA Schevon, JR Jagid, I Cajigas, CB Theodotou, A Ko, R Buckley, JG Ojemann, JW Miller, AW Laxton, DE Couture, GS Popli, VP Buch, CH Halpern, S Le, AD Sharan, MR Sperling, AD Mehta, DJ Englot, JS Neimat, PE Konrad, SA Sheth, EG Neal, FL Vale, KL Holloway, EL Air, JM Schwalb, PF D'Haese, C. Wu. 
     <em>Long-term outcomes of mesial temporal laser interstitial thermal therapy for drug-resistant epilepsy and subsequent surgery for seizure recurrence: a multi-centre cohort study.</em> 
-    <a href="https://jnnp.bmj.com/content/94/8/879" target="_blank">J. Neurol., Neurosurg. Psychiatry 94, 879–886 (2023).</a>
+    <a href="https://jnnp.bmj.com/content/94/8/879" target="_blank">J. Neurol., Neurosurg. Psychiatry</a>  94, 879–886 (2023).
     <a href="{{ site.url }}{{ site.baseurl }}/downloads/MehtaLTLaser.pdf" target="_blank">PDF.</a>
   </li>
   <li>
@@ -138,7 +138,7 @@ permalink: /publications/
   <li>
     Sam A Neymotin, Idan Tal, Annamaria Barczak, Monica N O’Connell, Tammy McGinnis, Noah Markowitz, Elizabeth Espinal, Erica Griffith, Haroon Anwar, Salvador Dura-Bernal, Charles E Schroeder, William W Lytton, Stephanie R Jones, Stephan Bickel, Peter Lakatos. 
     <em>Detecting spontaneous neural oscillation events in primate auditory cortex.</em> 
-    Eneuro ENEURO.0281-21.2022 (2022) <a href="https://doi.org/10.1523/eneuro.0281-21.2022" target="_blank">doi:10.1523/eneuro.0281-21.2022</a>.
+      <a href="https://doi.org/10.1523/eneuro.0281-21.2022" target="_blank">Eneuro</a>. ENEURO.0281-21.2022 (2022).
   </li>
   <li>
     Prachi Patel, Bahar Khalijhinejad, Jose L. Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
@@ -154,7 +154,7 @@ permalink: /publications/
   <li>
     Marcin Leszczynski, Stephan Bickel, Maximilian Nentwich, Brian E. Russ, Lucas Parra, Peter Lakatos, Ashesh Mehta, Charles E. Schroeder. 
     <em>Saccadic modulation of neural excitability in auditory areas of the neocortex.</em> 
-    bioRxiv 2022.05.24.493336 (2022) <a href="https://doi.org/10.1101/2022.05.24.493336" target="_blank">doi:10.1101/2022.05.24.493336</a>.
+     <a href="https://doi.org/10.1101/2022.05.24.493336" target="_blank">Biorxiv</a> 2022.05.24.493336 (2022).
   </li>
 </ul>
 
@@ -168,20 +168,20 @@ permalink: /publications/
   <li>
     Chad Bouton, Nikunj Bhagat, Santosh Chandrasekaran, Jose Herrero, Noah Markowitz, Elizabeth Espinal, Joo-won Kim, Richard Ramdeo, Junqian Xu, Matthew F. Glasser, Stephan Bickel, Ashesh Mehta. 
     <em>Decoding Neural Activity in Sulcal and White Matter Areas of the Brain to Accurately Predict Individual Finger Movement and Tactile Stimuli of the Human Hand.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8782667/" target="_blank">Front Neurosci-switz 15, 699631 (2021).</a>
-     <a href="{{ site.url }}{{ site.baseurl }}/downloads/herrero-et-al-2021-inducing-neuroplasticity-through-intracranial-θ-burst-stimulation-in-the-human-sensorimotor-cortex.pdf" target="_blank">PDF.</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8782667/" target="_blank">Front Neurosci,</a> 15, 699631 (2021).
+     <a href="{{ site.url }}{{ site.baseurl }}/downloads/herrero-et-al-2021-inducing-neuroplasticity-through-intracranial-θ-burst-stimulation-in-the-human-sensorimotor-cortex.pdf" target="_blank">PDF</a>.
   </li>
   <li>
     Santosh Chandrasekaran, Stephan Bickel, Jose L. Herrero, Joo-won Kim, Noah Markowitz, Elizabeth Espinal, Nikunj A. Bhagat, Richard Ramdeo, Junqian Xu, Matthew F. Glasser, Chad E. Bouton, Ashesh D. Mehta. 
     <em>Evoking highly focal percepts in the fingertips through targeted stimulation of sulcal regions of the brain for sensory restoration.</em> 
-    <a href="https://pubmed.ncbi.nlm.nih.gov/34358704/" target="_blank">Brain Stimul 14, 1184–1196 (2021).</a>
-    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Chandrasekaran2021.pdf" target="_blank">PDF.</a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/34358704/" target="_blank">Brain Stimul</a> 14, 1184–1196 (2021).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Chandrasekaran2021.pdf" target="_blank">PDF</a>.
   </li>
   <li>
     Bahar Khalighinejad, Prachi Patel, Jose L. Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Functional characterization of human Heschl’s gyrus in response to natural speech.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8608271/" target="_blank">Neuroimage 235, 118003 (2021).</a>
-    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF.</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8608271/" target="_blank">Neuroimage</a>  235, 118003 (2021).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/2021doi10.1016.pdf" target="_blank">PDF</a>.
   </li>
   <li>
     Santosh Chandrasekaran, Matthew Fifer, Stephan Bickel, Luke Osborn, Jose Herrero, Breanne Christie, Junqian Xu, Rory K. J. Murphy, Sandeep Singh, Matthew F. Glasser, Jennifer L. Collinger, Robert Gaunt, Ashesh D. Mehta, Andrew Schwartz, Chad E. Bouton. 
@@ -202,8 +202,8 @@ permalink: /publications/
   <li>
     S Khuvis, EM Yeagle, Y Norman, S Grossman, R Malach, AD. Mehta. 
     <em>Face-Selective Units in Human Ventral Temporal Cortex Reactivate during Free Recall.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8051680/" target="_blank">J. Neurosci. 41, 3386–3399 (2021).</a>
-    <a href="{{ site.url }}{{ site.baseurl }}/downloads/zns3386.pdf" target="_blank">PDF.</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8051680/" target="_blank">J. Neurosci.</a>  41, 3386–3399 (2021).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/zns3386.pdf" target="_blank">PDF</a>,
   </li>
   <li>
     S Khuvis, ST Hwang, AD. Mehta. 
@@ -364,7 +364,7 @@ permalink: /publications/
   <li>
     Mégevand, P. et al. 
     <em>The hippocampus and amygdala are integrators of neocortical influence: a cortico-cortical evoked potential study.</em> 
-    Brain Connectivity brain.2017.0527 (2017) <a href="https://doi.org/10.1089/brain.2017.0527" target="_blank">doi:10.1089/brain.2017.0527</a>.
+     <a href="https://doi.org/10.1089/brain.2017.0527" target="_blank">Brain Connectivity</a> brain.2017.0527 (2017).
   </li>
   <li>
     Pruitt, R., Gamble, A., Black, K., Schulder, M. & Mehta, A. D. 
