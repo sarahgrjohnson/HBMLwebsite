@@ -11,9 +11,7 @@ permalink: /vacancies
 **We are always looking for new group members with passion, talent, and grit!**
 
 ### Current open positions
-You find the current job openings here:
-- We have one research assistant and one lab coordinator position open to start in summer and spring of 2025 respectively. Official link to apply will be posted here shortly. Please [email](mailto:sbickel@northwell.edu) if you are interested with a CV and two references.
-  
+You find the current job openings here:  
 - There is one postdoc [opening 1]({{ site.baseurl }}/downloads/Postdoc_Feinstein.pdf) to work with Dr. Jose Herrero. Please [email](mailto:jherrero@northwell.edu) if you are interested with a CV and two references.
 
 ### Applications for PhD and Postdoc positions

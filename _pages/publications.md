@@ -8,6 +8,38 @@ permalink: /publications/
 
 
 # Publications
+
+### 2025
+<ul>
+  <li>
+      Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+      <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
+      <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00432-8" target="_blank">iScience</a> 28, 112171 (2025).
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
+  </li>
+  <li>
+    Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
+    <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
+     <a href="https://doi.org/10.7554/eLife.104996.1" target="_blank">ELife</a> 14:RP104996 (2025).
+      <a href="{{ site.url }}{{ site.baseurl }}/downloads/Max VARX ELife 2025.pdf" target="_blank">PDF</a>.
+  </li>
+  <li>
+      K. L. Christison-Lagay et al.  
+      <em>The neural activity of auditory conscious perception.</em>  
+      <a href="https://doi.org/10.1016/j.neuroimage.2025.121041" target="_blank">NeuroImage </a> 308, 121041 (2025).
+  </li>
+  <li>
+      M. Keshishian et al.  
+      <em>Parallel hierarchical encoding of linguistic representations in the human auditory cortex and recurrent automatic speech recognition systems.</em>  
+      <a href="https://doi.org/10.1101/2025.01.30.635775" target="_blank">bioRxiv</a>.  
+  </li>
+  <li>
+    Sabina Gherman, Marcin Leczinski, <strong>Stephan Bickel</strong>. 
+    <em>Intracranial EEG.</em> 
+    Cognitive Neuroscience Methods. Springer Nature. Book Chapter (2025). In press.
+  </li>
+</ul>
+
 ### 2024
 <ul>
   <li>
@@ -27,17 +59,6 @@ permalink: /publications/
     <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
      <a href="https://www.biorxiv.org/content/10.1101/2024.08.05.606665v2" target="_blank">bioRxiv.</a> 2024.10.08.617305 (2024) 
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv 2024.08.05.606665v2.Max Varx.pdf" target="_blank">PDF.</a>
-  </li>
-  <li>
-    Sabina Gherman, Marcin Leczinski, Stephan Bickel. 
-    <em>Intracranial EEG.</em> 
-    Cognitive Neuroscience Methods. Springer Nature. Book Chapter (2024).
-  </li>
-  <li>
-    Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, Stephan Bickel. 
-    <em>Hippocampal sharp wave ripples and coincident cortical ripples orchestrate human semantic networks.</em> 
-     <a href="https://doi.org/10.1101/2024.04.10.588795" target="_blank">bioRxiv.</a> 2024.04.10.588795 (2024).
-      <a href="{{ site.url }}{{ site.baseurl }}/downloads/biorxiv_2024.04.10.588795v3.AkashMatrixRecall.pdf" target="_blank">PDF.</a>
   </li>
   <li>
     Sabina Gherman, Noah Markowitz, Gelana Tostaeva, Elizabeth Espinal, Ashesh D. Mehta, Redmond G. O’Connell, Simon P. Kelly, Stephan Bickel. 
