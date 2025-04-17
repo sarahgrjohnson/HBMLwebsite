@@ -2,7 +2,6 @@
   photo: ash_mehta 2.jpg
   info: Founder and Co-Director of the Lab. Director of Neurological Epilepsy Surgery. Professor of Neurosurgery Zucker School of Medicine at Hofstra and the Feinstein Institutes, Northwell Health.
   email: 
-  x:
   linkedin: https://www.linkedin.com/in/ashesh-mehta-3110b234/
   website: https://www.northwell.edu/find-care/find-a-doctor/dr-ashesh-dinesh-mehta-md-11317165
 
@@ -10,8 +9,7 @@
   photo: steph_2024.jpg
   info: Co-Director of the Lab. Attending Physician, Neurology/Epilepsy. Assistant Professor of Neurology and Neurosurgery, Zucker School of Medicine at Hofstra and The Feinstein Institutes, Northwell.
   email: sbickel@northwell.edu
-  x: https://x.com/Steph_Bickel
-  bluesky: stephanbickel.bsky.social
+  bluesky: https://bsky.app/profile/stephanbickel.bsky.social
   linkedin: www.linkedin.com/in/stephan-bickel-48599a16
   website: https://www.stephanbickel.com
   github: https://github.com/iEEG
@@ -30,7 +28,6 @@
   info: PostDoc with Stephan
   background: PhD Cognitive Neuroscience, University of Glasgow (Philiastides lab)
   email: agherman@northwell.edu
-  x:
   linkedin:
   website: 
 
@@ -39,7 +36,7 @@
   info: PostDoc with Stephan
   background: PhD Biomedical Engineering, City College of New York (Parra Lab)
   email: mnentwich@northwell.edu
-  x:
+  bluesky: https://bsky.app/profile/maxnentwich.bsky.social
   linkedin:
   website: https://github.com/MaxNentwich
 
@@ -48,7 +45,6 @@
   info: PostDoc with Stephan
   background: PhD Drexel University (John Kounios, Lila Chrysikou Labs), MA Columbia U, BA Johns Hopkins
   email: cchesebrough@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/christine-chesebrough-phd-74981435/
   website: 
 
@@ -57,7 +53,6 @@
   info: Neuropsychology grad student at Drexel (mentor Lila Chrysikou at Drexel, co-mentor Stephan)
   background: BA, Queens College, NY
   email:  
-  x:
   linkedin:
   website: 
 
@@ -66,17 +61,16 @@
   info: MD PhD Student (Mentors-Stephan, Ash)
   background: BS, Hostra University, NY
   email:  AMishra4@northwell.edu
-  x: https://x.com/Akash_Mishra7
+  bluesky: https://bsky.app/profile/akashmishrah.bsky.social
   linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
   website: 
 
-- name: Jalen Winfield
-  photo: Jalen Winfield_4x5.jpg
+- name: Samruddhi Anikhindi
+  photo: bio-photo.jpg
   info: Research Assistant
-  background: BS Biomed. Engineering, Drexel University
-  email: jwinfield@northwell.edu
-  x:
-  linkedin:
+  background: MS Biomed. Engineering, Georgia Inst. of Tech., Atlanta, GA
+  email: sanikhindi@northwell.edu
+  linkedin: https://www.linkedin.com/in/samruddhi-anikhindi-88263119b/
   website: 
 
 - name: Noah Markowitz
@@ -84,7 +78,6 @@
   info: Research Assistant HBMLab, Grad Student at BU College of Engineering
   background: 
   email: nmarkowitz@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/noah-ben-markowitz/
   website: 
   github: https://github.com/nmarkowitz
@@ -94,7 +87,6 @@
   info: Research Assistant HBMLab
   background: BS Microbiology, Miami University
   email: sjohnson74@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
   website: 
   github: https://github.com/sarahgrjohnson
@@ -104,7 +96,6 @@
   info: Research Assistant with Jose
   background: BS Neuroscience, Biophysics, Brown University
   email: jassi@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/joshua-assi-a35145203/
   website: 
   github: https://github.com/
