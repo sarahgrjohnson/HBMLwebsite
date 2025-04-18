@@ -70,15 +70,6 @@
   linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
   website: 
 
-- name: Jalen Winfield
-  photo: Jalen Winfield_4x5.jpg
-  info: Research Assistant
-  background: BS Biomed. Engineering, Drexel University
-  email: jwinfield@northwell.edu
-  x:
-  linkedin:
-  website: 
-
 - name: Noah Markowitz
   photo: Noah.jpg
   info: Research Assistant HBMLab, Grad Student at BU College of Engineering
@@ -97,7 +88,7 @@
   x:
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
   website: 
-  github: https://github.com/sarahgrjohnson
+  github:
 
 - name: Joshua Assi
   photo: jassi.jpg
@@ -107,5 +98,14 @@
   x:
   linkedin: https://www.linkedin.com/in/joshua-assi-a35145203/
   website: 
-  github: https://github.com/
+  github: 
   
+- name: Samruddhi Anikhindi
+  photo: samruddhi_anikhindi.jpg
+  info: Research Assistant with Jose
+  background: MS Biomedical Engineering, Georgia Institute of Technology
+  email: sanikhindi@northwell.edu
+  x:
+  linkedin: 
+  website: 
+  github:
