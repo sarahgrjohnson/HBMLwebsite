@@ -2,18 +2,16 @@
   photo: ash_mehta 2.jpg
   info: Founder and Co-Director of the Lab. Director of Neurological Epilepsy Surgery. Professor of Neurosurgery Zucker School of Medicine at Hofstra and the Feinstein Institutes, Northwell Health.
   email: 
-  x:
   linkedin: https://www.linkedin.com/in/ashesh-mehta-3110b234/
   website: https://www.northwell.edu/find-care/find-a-doctor/dr-ashesh-dinesh-mehta-md-11317165
 
 - name: Stephan Bickel
-  photo: stephan_bickel.jpeg
+  photo: steph_2024.jpg
   info: Co-Director of the Lab. Attending Physician, Neurology/Epilepsy. Assistant Professor of Neurology and Neurosurgery, Zucker School of Medicine at Hofstra and The Feinstein Institutes, Northwell.
   email: sbickel@northwell.edu
-  x: https://x.com/Steph_Bickel
-  bluesky: stephanbickel.bsky.social
+  bluesky: https://bsky.app/profile/stephanbickel.bsky.social
   linkedin: www.linkedin.com/in/stephan-bickel-48599a16
-  website: https://www.northwell.edu/find-care/find-a-doctor/neurology/dr-stephan-bickel-md-phd-11378669
+  website: https://www.stephanbickel.com
   github: https://github.com/iEEG
   
 - name: Jose Herrero
@@ -21,7 +19,6 @@
   info: Assistant Professor at The Feinstein Institutes, Northwell.
   background: 
   email: jherrero@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/jose-herrero-nyc-neuro/
   website: https://feinstein.northwell.edu/institutes-researchers/our-researchers/jose-l-herrero-rubio-phd
 
@@ -30,7 +27,6 @@
   info: PostDoc with Stephan
   background: PhD Cognitive Neuroscience, University of Glasgow (Philiastides lab)
   email: agherman@northwell.edu
-  x:
   linkedin:
   website: 
 
@@ -39,7 +35,7 @@
   info: PostDoc with Stephan
   background: PhD Biomedical Engineering, City College of New York (Parra Lab)
   email: mnentwich@northwell.edu
-  x:
+  bluesky: https://bsky.app/profile/maxnentwich.bsky.social
   linkedin:
   website: https://github.com/MaxNentwich
 
@@ -48,7 +44,6 @@
   info: PostDoc with Stephan
   background: PhD Drexel University (John Kounios, Lila Chrysikou Labs), MA Columbia U, BA Johns Hopkins
   email: cchesebrough@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/christine-chesebrough-phd-74981435/
   website: 
 
@@ -57,7 +52,6 @@
   info: Neuropsychology grad student at Drexel (mentor Lila Chrysikou at Drexel, co-mentor Stephan)
   background: BA, Queens College, NY
   email:  
-  x:
   linkedin:
   website: 
 
@@ -66,8 +60,16 @@
   info: MD PhD Student (Mentors-Stephan, Ash)
   background: BS, Hostra University, NY
   email:  AMishra4@northwell.edu
-  x: https://x.com/Akash_Mishra7
+  bluesky: https://bsky.app/profile/akashmishrah.bsky.social
   linkedin: https://www.linkedin.com/in/akash-mishra-29a41015b/
+  website: 
+
+- name: Samruddhi Anikhindi
+  photo: bio-photo.jpg
+  info: Research Assistant
+  background: MS Biomed. Engineering, Georgia Inst. of Tech., Atlanta, GA
+  email: sanikhindi@northwell.edu
+  linkedin: https://www.linkedin.com/in/samruddhi-anikhindi-88263119b/
   website: 
 
 - name: Noah Markowitz
@@ -75,7 +77,6 @@
   info: Research Assistant HBMLab, Grad Student at BU College of Engineering
   background: 
   email: nmarkowitz@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/noah-ben-markowitz/
   website: 
   github: https://github.com/nmarkowitz
@@ -85,27 +86,16 @@
   info: Research Assistant HBMLab
   background: BS Microbiology, Miami University
   email: sjohnson74@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
   website: 
-  github:
+  github: https://github.com/sarahgrjohnson
 
 - name: Joshua Assi
   photo: jassi.jpg
   info: Research Assistant with Jose
   background: BS Neuroscience, Biophysics, Brown University
   email: jassi@northwell.edu
-  x:
   linkedin: https://www.linkedin.com/in/joshua-assi-a35145203/
   website: 
-  github: 
+  github: https://github.com/
   
-- name: Samruddhi Anikhindi
-  photo: samruddhi_anikhindi.jpg
-  info: Research Assistant with Jose
-  background: MS Biomedical Engineering, Georgia Institute of Technology
-  email: sanikhindi@northwell.edu
-  x:
-  linkedin: 
-  website: 
-  github:
