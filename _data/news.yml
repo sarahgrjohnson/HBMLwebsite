@@ -1,3 +1,8 @@
+- date: 4/18/2025
+  headline: "Liz succesfully defended her PhD thesis! Congratulations Dr. Espinal!! We are so proud of you!
+    Thanks also go to the outstanding committee: Josh Jacobs, Ash Mehta, Maria Schultheis, Loren Frank. We are grateful for your support and guidance!
+    Your mentors Stephan Bickel, Lila Chrysikou"
+
 - date: March 2025
   headline: "Samruddhi Anikhindijoined the team as a RA with Jose!! Welcome!"
 
@@ -11,12 +16,11 @@
   headline: "Akash is in the news, <a href='https://mednews.hofstra.edu/2024/11/06/national-institutes-of-health-awards-first-zucker-school-of-medicine-student-prestigious-research-fellowship/'> here </a> and <a href='https://www.longislandpress.com/2024/11/07/zucker-school-of-medicine-student-receives-select-research-fellowship/'> here</a>!"
 
 - date: 10/2024
-  headline: "HBML showings at SFN 2024 in Chicago:"
-  details:
-    - "<a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/23861'>Detecting when the mind wanders off task without self-report using intracranial EEG and eye movements</a>, CB Chesebrough, M Nentwich, A Mehta, S Bickel"
-    - "<a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/25873'>Anterior insula activation, the global signal, and their relation to state-related modulation of auditory processing in human intracranial EEG</a>, M Nentwich, CB Chesebrough, N Markowitz, E Freund, A Mehta, S Bickel"
-    - "<a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/25287'>Intracranial Responses to Respiratory Challenges in Sensorimotor and Insular cortices are modulated by the Strength and the Perception of the Challenge</a>, JR Herrero, S Bickel, T Similowski, N Mesgarani, A Mehta"
-    - "<a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/14967'>Human hippocampal and cortical ripple oscillations as a coordinating mechanism in the processing and memory of continuous, naturalistic stimuli</a>, A Mishra, G Tostaeva, M Nentwich, E Espinal, N Markowitz, S Gherman, A Mehta, S Bickel"
+  headline: "HBML showings at SFN 2024 in Chicago:
+    - <a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/23861'>Detecting when the mind wanders off task without self-report using intracranial EEG and eye movements</a>, CB Chesebrough, M Nentwich, A Mehta, S Bickel
+    - <a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/25873'>Anterior insula activation, the global signal, and their relation to state-related modulation of auditory processing in human intracranial EEG</a>, M Nentwich, CB Chesebrough, N Markowitz, E Freund, A Mehta, S Bickel
+    - <a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/25287'>Intracranial Responses to Respiratory Challenges in Sensorimotor and Insular cortices are modulated by the Strength and the Perception of the Challenge</a>, JR Herrero, S Bickel, T Similowski, N Mesgarani, A Mehta
+    - <a href='https://www.abstractsonline.com/pp8/#!/20433/presentation/14967'>Human hippocampal and cortical ripple oscillations as a coordinating mechanism in the processing and memory of continuous, naturalistic stimuli</a>, A Mishra, G Tostaeva, M Nentwich, E Espinal, N Markowitz, S Gherman, A Mehta, S Bickel"
 
 - date: August 2024
   headline: 'Max presented his <a href="https://www.biorxiv.org/content/10.1101/2024.08.05.606665v2">recent work</a> on connectiviity and encoding models at <a href="https://2024.ccneuro.org/">CCN 2024.</a> Congrats, Max!'
