@@ -12,13 +12,17 @@ permalink: /publications/
 ### 2025
 <ul>
   <li>
-      Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, Stephan Bickel. 
+    <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli. Science Advances. Accepted for publication.</em> 
+  </li>
+  <li>
+      Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, Stephan Bickel. 
       <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
       <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00432-8" target="_blank">iScience</a> 28, 112171 (2025).
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/Mishra-Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory-2025-iScience.pdf" target="_blank">PDF</a>. 
   </li>
   <li>
-    Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, <strong>Stephan Bickel</strong>, Lucas C Parra. 
+    Maximilian Nentwich, Marcin Leszczynski, Charles E Schroeder, Stephan Bickel, Lucas C Parra. 
     <em>Intrinsic dynamic shapes responses to external stimulation in the human brain.</em> 
      <a href="https://doi.org/10.7554/eLife.104996.1" target="_blank">ELife</a> 14:RP104996 (2025).
       <a href="{{ site.url }}{{ site.baseurl }}/downloads/Max VARX ELife 2025.pdf" target="_blank">PDF</a>.
@@ -34,7 +38,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1101/2025.01.30.635775" target="_blank">bioRxiv</a>.  
   </li>
   <li>
-    Sabina Gherman, Marcin Leczinski, <strong>Stephan Bickel</strong>. 
+    Sabina Gherman, Marcin Leczinski, Stephan Bickel. 
     <em>Intracranial EEG.</em> 
     Cognitive Neuroscience Methods. Springer Nature. Book Chapter (2025). In press.
   </li>
@@ -102,7 +106,7 @@ permalink: /publications/
   <li>
     Menoua Keshishian, Serdar Akkol, Jose Herrero, Stephan Bickel, Ashesh D. Mehta, Nima Mesgarani. 
     <em>Joint, distributed and hierarchically organized encoding of linguistic features in the human auditory cortex.</em> 
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10417567/" target="_blank">Nat. Hum. Behav. 7, 740–753 (2023).</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10417567/" target="_blank">Nat. Hum. Behav. </a>7, 740–753 (2023).
   </li>
   <li>
     Marcin Leszczynski, Stephan Bickel, Maximilian Nentwich, Brian E. Russ, Lucas Parra, Peter Lakatos, Ashesh Mehta, Charles E. Schroeder. 
