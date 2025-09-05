@@ -7,7 +7,7 @@
 
 - name: Stephan Bickel
   photo: steph_2024.jpg
-  info: Co-Director of the Lab. Attending Physician, Neurology/Epilepsy. Assistant Professor of Neurology and Neurosurgery, Zucker School of Medicine at Hofstra and The Feinstein Institutes, Northwell.
+  info: Co-Director of the Lab. Attending Physician, Neurology/Epilepsy. Associate Professor of Neurology and Neurosurgery, The Feinstein Institutes, Zucker School of Medicine at Hofstra, Northwell Health.
   email: sbickel@northwell.edu
   bluesky: https://bsky.app/profile/stephanbickel.bsky.social
   linkedin: www.linkedin.com/in/stephan-bickel-48599a16
@@ -89,6 +89,15 @@
   linkedin: https://www.linkedin.com/in/sarahgrjohnson/
   website: 
   github: https://github.com/sarahgrjohnson
+
+- name: Jessica Weber
+  photo: JessHeadshot.jpg
+  info: Research Assistant HBMLab
+  background: MSc Biomed. Engineering, University of Pittsburg
+  email: jweber14@northwell.edu 
+  linkedin: https://www.linkedin.com/in/jessica-weber-41a44b14b/
+  website: 
+  github:
 
 - name: Joshua Assi
   photo: jassi.jpg
