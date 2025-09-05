@@ -12,9 +12,16 @@ permalink: /publications/
 ### 2025
 <ul>
   <li>
-    Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, Stephan Bickel. 
-    <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli. Science Advances. Accepted for publication.</em> 
+    Akash Mishra, Gelana Tostaeva, Maximilian Nentwich, Elizabeth Espinal, Noah Markowitz, Sabina Gherman, Jalen Winfield, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Motifs of human hippocampal and cortical high frequency oscillations structure processing and memory of naturalistic stimuli.</em>
+    <a href="https://www.science.org/doi/10.1126/sciadv.adv0986" target="_blank">Science Advances</a> 11, eadv0986 (2025).
+    <a href="{{ site.url }}{{ site.baseurl }}/downloads/Mishra-Motifs of human high-frequency oscillations structure processing and memory of continuous audiovisual narratives-2025-Science Advances.pdf" target="_blank">PDF</a>.    
   </li>
+  <li>
+    Serdar Akkol,  Akash Mishra, Noah Markowitz, Elizabeth Espinal, Menoua Keshishian, Charles E Schroeder, Ashesh D. Mehta, <strong>Stephan Bickel</strong>. 
+    <em>Neural entrainment by speech in human auditory cortex revealed by intracranial recordings.</em> 
+     <a href="https://doi.org/10.7554/eLife.104996.1](https://www.sciencedirect.com/journal/progress-in-neurobiology" target="_blank">Progress in Neurobiology</a>, accepted for publication (2025).
+  </li>  
   <li>
       Akash Mishra, Serdar Akkol, Elizabeth Espinal, Noah Markowitz, Gelana Tostaeva, Elisabeth Freund, Ashesh D. Mehta, Stephan Bickel. 
       <em>Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory.</em> 
