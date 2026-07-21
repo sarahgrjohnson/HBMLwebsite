@@ -13,10 +13,9 @@ permalink: /vacancies
 ### Current open positions
 You can find the current job openings here:  
 
-We are looking for a **Postdoc** and **Research Assistant** to join our team, the ideal start date is as soon as possible! 
+We are looking for a **Postdoc** to join our team, the ideal start date is as soon as possible! 
 
 - **Postdoc**: We are looking for a postdoc to join our NIH funded project studying thalamo-cortical processes underlying multimodal interactions in the auditory cortex. The ideal candidate has a PhD in neuroscience, biomedical engineering, psychology, or a related field and a solid background in signal processing, programming, statistics, and scientific writing. If this sounds like you, please [Email (Stephan Bickel)](mailto:sbickel@northwell.edu) and briefly state why you are interested and attach a CV, including two references.
-- **Research Assistant / Lab Manager**: We are looking for an RA to join our lab! Responsibilities include assisting with data collection and analysis, IRB protocols, project management, and grant applications. This position exposes RAs to basic and clinical neuroscience, neurosurgery, and neuropsychology, making it a great opportunity for recent post-bacs interested in medical school or graduate school in neuroscience or biomedical engineering. The ideal candidate should have a B.A./B.S./B.E. in an appropriate discipline (e.g., neuroscience, BME, computer science, or physics), be comfortable working with patients in a clinical setting, and can provide a 1-to-2-year committment. Experience with signal processing, programming, and statistics is preferred. Please [Email (Stephan Bickel)](mailto:sbickel@northwell.edu) if interested.
 
 - Applications are open for the Elmezzi Graduate School of Molecular Medicine. The program offers an accelerated 3-year PhD for MDs, focused on translational research, and provides immersive, hands-on training at the Feinstein Institutes with individualized mentorship from world-renowned faculty. [Apply Here.](https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine/for-prospective-students)
 
